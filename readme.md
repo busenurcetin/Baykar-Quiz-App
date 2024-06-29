@@ -2,12 +2,11 @@
 
 > Bu projeyi Baykar stajı yapmak için oluşturdum. Projede sadece HTML, CSS ve JavaScript kullandım.
 
-> Canlı Proje [_tıkla_](https://baykar-case-theta.vercel.app/).
+> Canlı Proje [_tıkla_](https://baykar-quiz-app-phi.vercel.app/).
 
 ## İçerik
 - [Quiz App](#quiz-app)
   - [İçerik](#i̇çerik)
-  - [İçerik](#i̇çerik-1)
   - [Genel Bilgi](#genel-bilgi)
   - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
  
